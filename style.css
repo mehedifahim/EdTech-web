@@ -16,5 +16,15 @@
         height:480px;
         
     }
+    .vis{
+        visibility: hidden;
+    }
     
+    
+ }
+
+ @media screen and (min-width:577px) and (max-width:990px) {
+    .vis{
+        visibility: hidden;
+    }
  }
