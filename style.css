@@ -2,16 +2,14 @@
     filter: brightness(40%);
 }
 
-.text-center{
+.text-cent{
     position: absolute;
     top: 22%;
     left: 25%;
     color: #e2e2e2;
     
 }
-.marg{
-    margin-bottom: 20px;
-}
+
 
 @media screen and (max-width:576px) {
     .small{
